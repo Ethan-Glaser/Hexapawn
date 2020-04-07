@@ -1,0 +1,7 @@
+Hewapawn is a personal project that I worked on Febuary 2019.
+Hexapawn is a game like chess that is on a 3 X 3 board that
+only includes 3 pawns for each team. The game is won by either 
+getting to the opposite side of the board or by blocking the 
+other opponent. I programed an AI to play this game that gets
+smarter evry time you play. At first winning is easy but evetually 
+it is almost impossible to beat the AI
